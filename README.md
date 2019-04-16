@@ -7,7 +7,8 @@
 
 ## Getting Started:
 - Fork and Clone this repo then `cd` into the repo.
-- Run `npm init react-app .` (within the current folder).
+- Run `npm init react-app news-app`.
+- `cd` into the `news-app` folder.
 - Install axios (`npm i axios`).
 - Run `npm start`.
 - Remove or delete the pre-loaded `create-react-app` stuff that comes with it (`logo.svg, app.test.js, serviceWorker`, the code in `App.css`). _This step is mandatory_.
